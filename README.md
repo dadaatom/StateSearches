@@ -1,4 +1,4 @@
-# StateSearches
+# State-Space Searches
 
 ## Depth First Search
 Prioritises new nodes using a stack data structure.
